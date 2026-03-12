@@ -8,8 +8,6 @@
 ### 🫡 About Me
 
 ```python
-I need separate blocks about me and run bash and Links should look separate columns  about me content(class Sanjjay:
-
     def __init__(self):
         self.name = "Sanjjay Aroumougam"
         self.role = "Web & App Developer | Cybersecurity Enthusiast"
