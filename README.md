@@ -45,7 +45,7 @@ pipx install sanjjay
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,java,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,py,html,java,git,vscode,linux,flutter,dart" />
   </a>
 </p>
 
