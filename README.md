@@ -13,13 +13,13 @@
    def __init__(self):
         self.name = "Sanjjay Aroumougam"
         self.role = "Web & App Developer | Cybersecurity Enthusiast"
-        self.location = "Puducherry, India"
+        self.location = "Pondicherry, India"
         self.education = "CSBS Undergrad"
-        self.os = ["Fedora Linux", "Kali Linux"]
+        self.os = [" Kali ", " Fedora "," Arch "]
 
     def get_tech_stack(self):
         return {
-            "languages": ["Python", "C", "JavaScript", "Dart"],
+            "languages": ["Python", "HTML", "JavaScript", "Dart"],
             "frontend": ["React", "Tailwind CSS", "Flutter"],
             "backend": ["FastAPI", "Firebase", "PostgreSQL"],
             "tools": ["Git", "Docker", "Burp Suite", "Scapy"]
