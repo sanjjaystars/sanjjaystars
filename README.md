@@ -1,4 +1,3 @@
-cat <<EOF > README.md
 <div align="center">
   <h3>Hello!</h3>
   <h1>I'm Sanjjay</h1>
@@ -6,32 +5,30 @@ cat <<EOF > README.md
 
 ## 🫡 About Me
 
-\`\`\`python
+```python
 my_identity = {
     "name": "Sanjjay Aroumougam",
+    "email": "sanjjaystars@gmail.com",
     "college": "Sri Manakula Vinayagar Engineering College",
-    "role": "CSBS Undergrad | Full-Stack Developer",
-    "location": "Puducherry, India"
+    "location": "India"
 }
 
 def overview():
     """
-    Focused on Web Dev, App Dev, and Cybersecurity.
-    Operating on Fedora Linux. Building Dark Syntax.
+    I am a CSBS student at SMVEC, developing strong skills 
+    in software engineering through hands-on work in web 
+    development, app development, and cybersecurity. 
+    I work with Python, React, C, Flutter, and Linux.
     """
     pass
-\`\`\`
-
-## 😎 Run Bash:
-
-\`\`\`bash
+😎 Run Bash:
+Bash
 pip install sanjjay
-\`\`\`
+<br />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,react,c,flutter,linux,firebase,postgres,bash&theme=dark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpy,react,c,flutter,linux,firebase,postgres,bash%26theme%3Ddark" />
 </p>
 
-## 🔗 Links
-[LinkedIn](https://linkedin.com/in/sanjjaystars) | [GitHub](https://github.com/sanjjaystars)
-EOF
+🔗 Links
+LinkedIn | Portfolio | Instagram
