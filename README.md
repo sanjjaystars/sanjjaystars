@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>SANJJAY</h3>
-  <h1>Founder of dark syntax</h1>
+  <h1>SANJJAY</h1>
+  <h3>Founder of dark syntax</h3>
 </div>
 
 ---
