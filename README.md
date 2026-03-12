@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1c47fd97-a96b-40d9-9b40-f06105db5a47" 
-       alt="output gif" 
-       width="300" 
-       height="200" />
-</p>
+<div align="center">
+  <h1>SANJJAY</h1>
+  <h3>Founder of Dark-Syntax</h3>
+</div>
+
+---
 
 
 
@@ -40,7 +40,7 @@ pip install sanjjay
 <p align="center">(or)</p>
 
 ```
-sanjjay
+pipx install sanjjay
 ```
 
 <p align="center">
