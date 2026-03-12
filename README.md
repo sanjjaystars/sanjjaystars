@@ -6,20 +6,27 @@
 ## 🫡 About Me
 
 ```python
-my_identity = {
-    "name": "Sanjjay Aroumougam",
-    "email": "sanjjaystars@gmail.com",
-    "college": "Sri Manakula Vinayagar Engineering College",
-    "location": "India"
-}
+class Sanjjay:
+    def __init__(self):
+        self.name = "Sanjjay Aroumougam"
+        self.role = "Web & App Developer | Cybersecurity Enthusiast"
+        self.location = "Puducherry, India"
+        self.education = "CSBS Undergrad"
+        self.os = ["Fedora Linux", "Kali Linux"]
 
-def overview():
-    """
-    I am a CSBS student at SMVEC, developing strong skills 
-    in software engineering through hands-on work in web 
-    development, app development, and cybersecurity. 
-    I work with Python, React, C, Flutter, and Linux.
-    """
+    def get_tech_stack(self):
+        return {
+            "languages": ["Python", "C", "JavaScript", "Dart"],
+            "frontend": ["React", "Tailwind CSS", "Flutter"],
+            "backend": ["FastAPI", "Firebase", "PostgreSQL"],
+            "tools": ["Git", "Docker", "Burp Suite", "Scapy"]
+        }
+
+    def say_hi(self):
+        print(f"Thanks for visiting {self.name}'s profile!")
+
+me = Sanjjay()
+me.say_hi()
     pass
 😎 Run Bash:
 Bash
