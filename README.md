@@ -1,6 +1,3 @@
-
-
-# Create the README file with the professional layout
 cat <<EOF > README.md
 <div align="center">
   <h3>Hello!</h3>
