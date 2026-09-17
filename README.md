@@ -96,5 +96,5 @@ sanjjay
 
 <br />
 <div align="center">
-  <img src="https://media1.tenor.com/m/DahrTKrOcYQAAAAd/sukuna-jjk.gif" width="600" alt="Sukuna JJK" />
+  <img src="./assets/sukuna.gif" width="600" alt="Sukuna JJK" />
 </div>
