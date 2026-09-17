@@ -73,7 +73,7 @@ sanjjay
 
 <div align="center">
   <!-- Update this row to match the technologies you use. -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,cpp,html,css,js&theme=dark" alt="Git, GitHub, VS Code, Java, Python, C++, HTML, CSS, and JavaScript" />
+  <img src="https://skillicons.dev/icons?i=git,github,apple,arch,kali,linux,docker,aws,vscode,java,python,cpp,js&theme=dark" alt="Git, GitHub, VS Code, Java, Python, C++, HTML, CSS, and JavaScript" />
 </div>
 
 <br />
