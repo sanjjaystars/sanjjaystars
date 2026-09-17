@@ -1,12 +1,75 @@
-<div align="justify">
+<div align="center">
+  <img src="./anime-banner.png" width="100%" alt="Dark anime banner" />
+
+  <h1>⌁ Hi, I’m <a href="https://github.com/sanjjaystars">Sanjjay</a>!</h1>
+  <p><i>Code · Learn · Solve</i></p>
+
+  <a href="https://github.com/sanjjaystars">
+    <img src="https://komarev.com/ghpvc/?username=sanjjaystars&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://leetcode.com/u/SANJJAY73/">
+    <img src="https://img.shields.io/badge/LeetCode-SANJJAY73-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode: SANJJAY73" />
+  </a>
+</div>
+
+<hr />
+
+<table>
+<tr>
+<td width="72%" valign="top">
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
-    <img alt="GIFOS" src="output.gif">
+<source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+<source media="(prefers-color-scheme: light)" srcset="./output.gif">
+<img alt="GIFOS" src="./output.gif" width="100%">
 </picture>
 
-<sub><i>Generated automatically using <a href="https://github.com/sanjjaystars/github-readme-terminal">sanjjaystars/github-readme-terminal</a> on Thu Sep 17 08:40:25 PM IST 2026</i></sub>
+<sub><i>Generated automatically using <a href="https://github.com/sanjjaystars/github-readme-terminal">sanjjaystars/github-readme-terminal</a></i></sub>
+
+</td>
+<td width="28%" valign="top" align="right">
+
+<img src="./anime-portrait.png" alt="Monochrome anime portrait" width="245">
+
+</td>
+</tr>
+</table>
+<br />
+
+### GitHub stats
+
+<div align="center">
+  <img src="./assets/github-stats.svg" width="49%" alt="Sanjjay's GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" width="49%" alt="Sanjjay's contribution streak" />
 </div>
+<br />
+
+<br />
+
+### Bash
+
+<table>
+<tr>
+<td><b>Install</b></td>
+<td><b>Run</b></td>
+</tr>
+<tr>
+<td>
+
+```bash
+npm install -g sanjjay
+```
+
+</td>
+<td>
+
+```bash
+sanjjay
+```
+
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -29,3 +92,14 @@
 </div>
 
 <hr />
+
+### LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/SANJJAY73/">
+    <img src="https://leetcard.jacoblin.cool/SANJJAY73?theme=dark&font=Nunito&ext=heatmap" alt="Sanjjay’s LeetCode statistics" />
+  </a>
+</div>
+
+<br />
+<video src="https://github.com/sanjjaystars/sanjjaystars/assets/sukunu.webm" controls width="600"></video>
