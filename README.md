@@ -48,13 +48,28 @@
 <br />
 <br />
 
-### ⚡ My CLI
+<table>
+<tr>
+<td><b>Install</b></td>
+<td><b>Run</b></td>
+</tr>
+<tr>
+<td>
 
-<div align="center">
-  <img src="./sanjjay-cli.gif" width="90%" alt="Sanjjay CLI animated terminal" />
-</div>
+```bash
+npm install -g sanjjay
+```
 
-<br />
+</td>
+<td>
+
+```bash
+sanjjay
+```
+
+</td>
+</tr>
+</table>
 
 ### Languages · frameworks · tools
 
@@ -85,4 +100,5 @@
 </div>
 
 <br />
+<video src="https://github.com/sanjjaystars/sanjjaystars/assets/sukunu.webm" controls width="600"></video>
 
