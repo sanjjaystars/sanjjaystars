@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/anime-banner.png" width="100%" alt="Dark anime banner" />
+  <img src="./anime-banner.png" width="100%" alt="Dark anime banner" />
 
   <h1>⌁ Hi, I’m <a href="https://github.com/sanjjaystars">Sanjjay</a>!</h1>
   <p><i>Code · Learn · Solve</i></p>
