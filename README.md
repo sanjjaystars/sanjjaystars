@@ -44,9 +44,9 @@
 </div>
 <br />
 
+<br />
 
-<br />
-<br />
+### Bash
 
 <table>
 <tr>
@@ -70,6 +70,8 @@ sanjjay
 </td>
 </tr>
 </table>
+
+<br />
 
 ### Languages · frameworks · tools
 
