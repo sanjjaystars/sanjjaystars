@@ -39,10 +39,9 @@
 ### GitHub stats
 
 <div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjjaystars&theme=github_dark" alt="Sanjjay’s GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="Sanjjay’s contribution streak" />
+  <img src="./assets/github-stats.svg" width="49%" alt="Sanjjay's GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" width="49%" alt="Sanjjay's contribution streak" />
 </div>
-
 <br />
 
 
