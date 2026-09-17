@@ -14,6 +14,7 @@
 
 <hr />
 
+<img align="right" width="245" src="./assets/anime-portrait.png" alt="Monochrome anime portrait" />
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
