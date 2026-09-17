@@ -14,18 +14,26 @@
 
 <hr />
 
-<img align="right" width="245" src="./assets/anime-portrait.png" alt="Monochrome anime portrait" />
+<table>
+<tr>
+<td width="72%" valign="top">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./output.gif">
-    <img alt="GIFOS" src="output.gif">
+<source media="(prefers-color-scheme: dark)" srcset="./output.gif">
+<source media="(prefers-color-scheme: light)" srcset="./output.gif">
+<img alt="GIFOS" src="./output.gif" width="100%">
 </picture>
 
 <sub><i>Generated automatically using <a href="https://github.com/sanjjaystars/github-readme-terminal">sanjjaystars/github-readme-terminal</a> on Thu Sep 17 05:44:08 PM IST 2026</i></sub>
 
-</div>
+</td>
+<td width="28%" valign="top" align="right">
 
+<img src="./anime-portrait.png" alt="Monochrome anime portrait" width="245">
+
+</td>
+</tr>
+</table>
 <br />
 
 ### GitHub stats
