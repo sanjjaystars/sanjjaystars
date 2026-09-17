@@ -46,30 +46,23 @@
 
 <br />
 
-### Bash
+### 💻 Interactive CLI
 
-<table>
-<tr>
-<td><b>Install</b></td>
-<td><b>Run</b></td>
-</tr>
-<tr>
-<td>
+Run my interactive portfolio card directly in your terminal:
+
+```bash
+npx sanjjay
+```
+
+<details>
+<summary><b>📦 Or install globally via npm</b></summary>
 
 ```bash
 npm install -g sanjjay
-```
-
-</td>
-<td>
-
-```bash
 sanjjay
 ```
 
-</td>
-</tr>
-</table>
+</details>
 
 <br />
 
