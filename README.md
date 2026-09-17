@@ -40,7 +40,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sanjjaystars&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9&rank_icon=percentile" width="49%" alt="Sanjjay's GitHub statistics" />
-  <img src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" width="49%" alt="Sanjjay's contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&v=2" width="49%" alt="Sanjjay's contribution streak" />
 </div>
 <br />
 
