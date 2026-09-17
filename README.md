@@ -46,6 +46,15 @@
 
 
 <br />
+<br />
+
+### ⚡ My CLI
+
+<div align="center">
+  <img src="./sanjjay-cli.gif" width="90%" alt="Sanjjay CLI animated terminal" />
+</div>
+
+<br />
 
 ### Languages · frameworks · tools
 
