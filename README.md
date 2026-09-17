@@ -10,6 +10,9 @@
   <a href="https://leetcode.com/u/SANJJAY73/">
     <img src="https://img.shields.io/badge/LeetCode-SANJJAY73-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode: SANJJAY73" />
   </a>
+  <a href="https://www.linkedin.com/in/sanjjayaroumougam/">
+    <img src="https://img.shields.io/badge/LinkedIn-sanjjayaroumougam-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 <hr />
@@ -95,6 +98,15 @@ sanjjay
 </div>
 
 <br />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanjjayaroumougam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sanjjayaroumougam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</div>
+
+<br />
+
 <div align="center">
 <table>
 <tr>
