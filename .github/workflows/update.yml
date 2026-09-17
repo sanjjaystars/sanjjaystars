@@ -1,4 +1,4 @@
-name: Update readme
+name: Update README
 
 on:
   workflow_dispatch:
@@ -15,28 +15,22 @@ jobs:
       - uses: actions/checkout@v4
         with:
           lfs: true
-      # - name: Set up Python 3.11
-      #   uses: actions/setup-python@v5
-      #   with:
-      #     python-version: '3.11'
 
       - name: Install dependencies
         run: |
           sudo apt update && sudo apt install -y ffmpeg
           python -m pip install --upgrade pip
-          pip install git+https://github.com/x0rzavi/github-readme-terminal.git@main
+          pip install git+https://github.com/sanjjaystars/github-readme-terminal.git
 
-      - name: Run script
-        run: python main.py
+      - name: Generate GIF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
-          GIFOS_GENERAL_FPS: 13
-          GIFOS_GENERAL_LOOP_COUNT: 4
-          GIFOS_GENERAL_COLOR_SCHEME: "everblush"
+        run: python main.py
 
-      - name: Update readme
+      - name: Commit and push
         run: |
-          git add README.md output.gif
-          git -c "user.name=bot" -c "user.email=bot@github.com" commit -m "Automatically updated on $(TZ='Asia/Kolkata' date)"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output.gif README.md
+          git diff --cached --quiet || git commit -m "chore: auto-update profile GIF [skip ci]"
           git push
