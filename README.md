@@ -95,4 +95,6 @@ sanjjay
 </div>
 
 <br />
-<video src="https://github.com/sanjjaystars/sanjjaystars/assets/sukunu.webm" controls width="600"></video>
+<div align="center">
+  <img src="https://media1.tenor.com/m/DahrTKrOcYQAAAAd/sukuna-jjk.gif" width="600" alt="Sukuna JJK" />
+</div>
