@@ -99,12 +99,14 @@ sanjjay
 
 <br />
 
+<hr />
 <div align="center">
   <a href="https://www.linkedin.com/in/sanjjayaroumougam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-sanjjayaroumougam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </div>
 
+<hr />
 <br />
 
 <div align="center">
