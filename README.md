@@ -1,4 +1,20 @@
-<div align="justify">
+<div align="center">
+  <img src="./assets/anime-banner.png" width="100%" alt="Dark anime banner" />
+
+  <h1>⌁ Hi, I’m <a href="https://github.com/sanjjaystars">Sanjjay</a>!</h1>
+  <p><i>Code · Learn · Solve</i></p>
+
+  <a href="https://github.com/sanjjaystars">
+    <img src="https://komarev.com/ghpvc/?username=sanjjaystars&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://leetcode.com/u/SANJJAY73/">
+    <img src="https://img.shields.io/badge/LeetCode-SANJJAY73-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode: SANJJAY73" />
+  </a>
+</div>
+
+<hr />
+
+<img align="right" width="245" src="./assets/anime-portrait.png" alt="Monochrome anime portrait" /><div align="justify">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./output.gif">
     <source media="(prefers-color-scheme: light)" srcset="./output.gif">
@@ -8,6 +24,18 @@
 <sub><i>Generated automatically using <a href="https://github.com/sanjjaystars/github-readme-terminal">sanjjaystars/github-readme-terminal</a> on Thu Sep 17 05:44:08 PM IST 2026</i></sub>
 
 </div>
+
+<br />
+
+### GitHub stats
+
+<div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjjaystars&theme=github_dark" alt="Sanjjay’s GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sanjjaystars&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF" alt="Sanjjay’s contribution streak" />
+</div>
+
+<br />
+
 
 <br />
 
@@ -30,3 +58,14 @@
 </div>
 
 <hr />
+
+### LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/SANJJAY73/">
+    <img src="https://leetcard.jacoblin.cool/SANJJAY73?theme=dark&font=Nunito&ext=heatmap" alt="Sanjjay’s LeetCode statistics" />
+  </a>
+</div>
+
+<br />
+
