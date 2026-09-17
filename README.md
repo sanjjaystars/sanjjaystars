@@ -96,5 +96,13 @@ sanjjay
 
 <br />
 <div align="center">
-  <img src="./assets/sukuna.gif" width="600" alt="Sukuna JJK" />
+<table>
+<tr>
+<td align="center">
+
+<img src="./assets/sukuna.gif" width="580" alt="Sukuna JJK" />
+
+</td>
+</tr>
+</table>
 </div>
